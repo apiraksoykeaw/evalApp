@@ -1,1 +1,1 @@
-angular.module('userApp', ['appRoutes','userControllers', 'userServices', 'ngAnimate']);
+angular.module('evalApp', ['appRoutes','userControllers', 'userServices', 'ngAnimate', 'evalFormControllers', 'evalFormServices']);
